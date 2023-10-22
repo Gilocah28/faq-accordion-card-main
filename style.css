@@ -120,6 +120,14 @@ main{
     display: block;
 }
 
+.attribution{
+    margin-top: 1rem;
+}
+.attribution .name {
+    color: var(--Softred);
+    text-decoration: none;
+}
+
 
 @media screen and (max-width: 600px) {
     main{
